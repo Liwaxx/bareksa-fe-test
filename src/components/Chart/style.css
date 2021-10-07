@@ -1,0 +1,20 @@
+.card-header{
+  background: white !important;
+  border: none !important;
+}
+
+.card-header h5 {
+  font-weight: 700;
+}
+
+.card-header .btn{
+  border: 1px solid #E5E5E5;
+  box-sizing: border-box;
+  border-radius: 4px;
+  font-weight: 700;
+}
+
+.card-footer{
+  background: white !important;
+  border: none !important;
+}
