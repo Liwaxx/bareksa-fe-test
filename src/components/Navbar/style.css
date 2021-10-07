@@ -1,0 +1,30 @@
+.navbar{
+  background: #FFFFFF;
+}
+
+.search {
+  background: #FFFFFF;
+  /* Components / Input Border */
+
+  border: 1px solid #DDDDDD;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+.input-bar{
+  border: none;
+}
+
+.input-bar:focus{
+  outline: none;
+}
+
+.warp-dates{
+  background: #F5F5F5;
+  height: 56px;
+}
+
+.date{
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+}

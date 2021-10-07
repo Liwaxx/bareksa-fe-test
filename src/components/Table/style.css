@@ -1,0 +1,15 @@
+.table-responsive {
+  max-height: 35vh;
+}
+
+.badge-success {
+  background-color: #789764 !important;
+}
+
+.badge-warning {
+  background-color: #E69849 !important;
+}
+
+.badge-danger {
+  background-color: #D66D4B !important;
+}
